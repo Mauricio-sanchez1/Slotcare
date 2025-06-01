@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "371303966350",
+    "project_id": "myapplicationdevelop-b030419c",
+    "storage_bucket": "myapplicationdevelop-b030419c.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:371303966350:android:99b08684126bac33fa4bdf",
+        "android_client_info": {
+          "package_name": "com.example.slotcare0011"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCGADcb20GKe3DhYeHhytRRSmRSvgocjms"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
